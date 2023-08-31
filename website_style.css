@@ -2,3 +2,11 @@ h1 {
     color:rgb(143, 4, 4);
     text-align: center;
 }
+
+h3 {
+    color:rgb(143, 4, 4)
+}
+
+body {
+    background-color: rgba(8, 158, 163, 0.884);
+}
