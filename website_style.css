@@ -1,12 +1,33 @@
 h1 {
     color:rgb(143, 4, 4);
+    background-color: forestgreen;
+    line-height: 2em;
     text-align: center;
+    font-size: 2.5em;
+    font-weight: bolder;
+    font-style: italic;
 }
 
 h3 {
-    color:rgb(143, 4, 4)
+    color:rgb(143, 4, 4);
+    font-weight: bolder
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
     background-color: rgba(8, 158, 163, 0.884);
+    font-size: 1.153em;
+    font-weight: lighter;
+}
+
+#aboutSection {
+    color:rgb(143, 4, 4);
+}
+
+.positions {
+    color: crimson;
+    font-weight: bold;
 }
