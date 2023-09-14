@@ -1,9 +1,9 @@
-h1 {
+header {
     color:rgb(143, 4, 4);
     background-color: forestgreen;
-    line-height: 2em;
+    line-height: 2.3em;
     text-align: center;
-    font-size: 2.5em;
+    font-size: 1.75em;
     font-weight: bolder;
     font-style: italic;
 }
@@ -23,11 +23,21 @@ body {
     font-weight: lighter;
 }
 
-#aboutSection {
+main {
     color:rgb(143, 4, 4);
+    font-size: 2.5em;
 }
 
 .positions {
     color: crimson;
     font-weight: bold;
+}
+
+#About {
+    color: rgb(143, 4, 4);
+    font-size: 1.5em;
+}
+
+footer {
+    font-weight:bold;
 }
