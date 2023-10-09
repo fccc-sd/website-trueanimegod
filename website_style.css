@@ -75,13 +75,3 @@ nav a:active
 {
     color: black;
 }
-
-.links a:link
-{
-    text-decoration: none;
-}
-
-.links a:hover
-{
-    text-decoration: underline;
-}
