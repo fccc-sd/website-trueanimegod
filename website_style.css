@@ -75,3 +75,14 @@ nav a:active
 {
     color: black;
 }
+
+link a:active
+{
+    color: rgb(143, 4, 4);
+    text-decoration: none;
+}
+
+link a:visited
+{
+    color: rgb(143, 4, 4);
+}
